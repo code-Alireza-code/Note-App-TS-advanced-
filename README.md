@@ -10,6 +10,7 @@ advanced note app with this features:
 - add,delete,edit category
 - save notes on localStorage
 - support for markdown
+- search notes by category and title
 
 #### to run the project just run this command
 
